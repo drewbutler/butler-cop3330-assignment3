@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class modifyText {
+
     private String filePath;
     private ArrayList<String> contents;
     private String output;
